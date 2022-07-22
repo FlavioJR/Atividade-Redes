@@ -40,3 +40,7 @@ de instalação do Linux.
 ## 🐧 Documentação da Instalação do Linux
 
 [Processo_de_Instalao_do_Linux.pdf](https://github.com/FlavioJR/Atividade-Redes/files/9162110/Processo_de_Instalao_do_Linux.pdf)
+
+## 	:briefcase: Slides para Apresentação
+
+[Apresentação - Sprint de redes.pptx](https://github.com/FlavioJR/Atividade-Redes/files/9169247/Apresentacao.-.Sprint.de.redes.pptx)
